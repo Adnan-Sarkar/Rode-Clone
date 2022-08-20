@@ -8,9 +8,9 @@ I'm `Adnan Sarkar`. This is the [RØDE](https://rode.com) clone assignment in my
 - ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🖥 Preview
-[Live Preview]()
+[Live Preview](https://rode-clone-by-adnan-sarkar.netlify.app/)
 
-![]()
+![](Rode%20Clone.png)
 
 ##  What I have learned in this project?
 - How to start Tailwind css without javascript.
